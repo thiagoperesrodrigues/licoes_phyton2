@@ -1,0 +1,2 @@
+product = 80 * 4
+remainder = 1398 % 11
