@@ -1,0 +1,3 @@
+city_name = "Franca"
+# A variável city_pop é referente a população total de city_name
+city_pop = 313046
