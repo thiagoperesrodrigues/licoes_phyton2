@@ -1,0 +1,15 @@
+# 1 - Armazene a quantidade de itens que desejo comprar, criando uma varíavel para cada item
+tenis = 2
+camisetas = 3
+calcas = 3
+
+# 2 - Criar variáveis com o preço de cada item que irei comprar
+preco_tenis = 170.5
+preco_camisetas = 57
+preco_calcas = 63
+
+# 3 - Criar uma variável chamada total_cost em que constará a quantidade de cada item e valores
+total_cost = (tenis*preco_tenis)+(camisetas*preco_camisetas)+(calcas*preco_calcas)
+
+#4 - Imprima a variável total cost
+print (total_cost)
